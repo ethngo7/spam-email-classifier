@@ -32,9 +32,9 @@ This project explores how to classify emails as spam or not spam using interpret
 
 ## Project Files
 
-- `notebook.ipynb` — main analysis, feature engineering, model training
+- `notebook.ipynb` — The actual project containing the main analysis, feature engineering, model training
 - `model.pkl` — trained logistic regression model
-- `requirements.txt` — list of dependencies
+- `spam_ham_data.zip` — datasets
 
 
 ## Author
