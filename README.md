@@ -25,20 +25,20 @@ This project explores how to classify emails as spam or not spam using interpret
 
 ## Tools Used
 
-- Python (pandas, scikit-learn, re)
+- Python (pandas, scikit-learn, re, etc.)
 - Logistic Regression
 - Jupyter Notebook
 - Matplotlib / Seaborn (for plots)
 
 ## Project Files
 
-- `model.pkl` — trained logistic regression model
 - `notebook.ipynb` — main analysis, feature engineering, model training
+- `model.pkl` — trained logistic regression model
 - `requirements.txt` — list of dependencies
 
-## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/spam-email-classifier.git
-   cd spam-email-classifier
+## Author
+
+Ethan Ngo  
+UC Berkeley — Data Science Major  
+[LinkedIn](https://www.linkedin.com/in/ethngo7)
