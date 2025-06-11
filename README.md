@@ -36,7 +36,7 @@ ROC Curve:
 
 ## Project Files
 
-- `notebook.ipynb` — The actual project containing the main analysis, feature engineering, model training
+- `spam_email_classifier.ipynb` — The actual project containing the main analysis, feature engineering, model training
 - `model.pkl` — trained logistic regression model
 - `spam_ham_data.zip` — datasets
 
