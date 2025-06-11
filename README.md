@@ -23,6 +23,10 @@ This project explores how to classify emails as spam or not spam using interpret
 - Visualizations highlight feature importance and class distribution
 - Focused on **interpretable, transparent classification**
 
+ROC Curve:
+  <img width="589" alt="Screenshot 2025-06-11 at 13 52 53" src="https://github.com/user-attachments/assets/e504b2d6-9486-45b1-95e2-3148a6337a04" />
+
+
 ## 🧠 Tools Used
 
 - Python (pandas, scikit-learn, re, etc.)
