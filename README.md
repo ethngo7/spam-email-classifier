@@ -1,4 +1,6 @@
-# 📨 Spam Email Classifier
+#<img width="591" alt="Screenshot 2025-06-11 at 13 50 22" src="https://github.com/user-attachments/assets/2168ccb3-6aab-4bb1-bfce-d1b4f857a76a" />
+
+ 📨 Spam Email Classifier
 
 A logistic regression model that predicts whether an email is spam or not based on custom-engineered text features.
 
