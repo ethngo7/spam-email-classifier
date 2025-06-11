@@ -1,4 +1,4 @@
-# 📨 Spam Email Classifier (to see full code, look for the .ipynb file in folder)
+# 📨 Spam Email Classifier (to see full code, look for the .ipynb file in folder in the "spam-email-classifier" folder)
 
 A logistic regression model that predicts whether an email is spam or not based on custom-engineered text features.
 
